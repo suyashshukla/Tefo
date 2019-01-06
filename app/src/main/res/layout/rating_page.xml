@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.CardView
+            android:layout_margin="5dp"
+            app:cardCornerRadius="5dp"
+            app:cardBackgroundColor="@color/colorPrimary"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="FOOD"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:textSize="18sp"
+            android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.AppCompatRatingBar
+            android:layout_width="wrap_content"
+            android:theme="@style/ratingStyle"
+            android:layout_gravity="center"
+            android:rating="4"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:hint="Leave Feedback"
+            android:layout_height="wrap_content" />
+
+        <android.support.v7.widget.CardView
+            android:layout_margin="5dp"
+            app:cardCornerRadius="5dp"
+            app:cardBackgroundColor="@color/colorPrimary"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="VALUE FOR MONEY"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.AppCompatRatingBar
+            android:layout_width="wrap_content"
+            android:theme="@style/ratingStyle"
+            android:rating="2"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:hint="Leave Feedback"
+            android:layout_height="wrap_content" />
+
+
+        <android.support.v7.widget.CardView
+            android:layout_margin="5dp"
+            app:cardCornerRadius="5dp"
+            app:cardBackgroundColor="@color/colorPrimary"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="AMBIENCE"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.AppCompatRatingBar
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:rating="3"
+            android:theme="@style/ratingStyle"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:hint="Leave Feedback"
+            android:layout_height="wrap_content" />
+
+        <android.support.v7.widget.CardView
+            android:layout_margin="5dp"
+            app:cardCornerRadius="5dp"
+            app:cardBackgroundColor="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="SERVICE"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.AppCompatRatingBar
+            android:layout_width="wrap_content"
+            style="@style/Widget.AppCompat.RatingBar"
+            android:layout_gravity="center"
+            android:rating="3"
+            android:theme="@style/ratingStyle"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:hint="Leave Feedback"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:text="RATE"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/curve_button"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>

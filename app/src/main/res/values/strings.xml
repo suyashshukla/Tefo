@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Technofe</string>
+
+    <string name="mojito">Traditionally, a mojito is a cocktail that consists of five ingredients: 
+        white rum, sugar (traditionally sugar cane juice), lime juice, soda water, and mint. 
+        Its combination of sweetness, citrus, and mint flavors is intended to complement the rum, 
+        and has made the mojito a popular summer drink.</string>
+
+    <string name="biryani">Biryani, also known as biriyani, biriani, birani or briyani, is a mixed
+        rice dish with its origins among the Muslims of the Indian subcontinent. It is popular throughout
+        the Indian subcontinent as well as among the diaspora from the region.</string>
+
+    <string name="poha">Flattened rice, commonly known as chura, is rice which is flattened into flat,
+        light, dry flakes originating from the Indian subcontinent. These flakes of rice swell when added to liquid,
+        whether hot or cold, as they absorb water, milk or any other liquids.</string>
+
+    <string name="frappe">Frappe is a kind of coffee that is made when you stir instant coffee(in granules)
+        together with a small amount of water in a shaker.Add cold water, ice cubes sugar and milk for a proper
+        "greek island" experience.Because stirring produces foam, make sure you use a tall glass and a straw</string>
+
+    <string name="dosa">Dosa is a type of pancake originating from the Indian subcontinent, made from a fermented batter. 
+        It is somewhat similar to a crepe in appearance. Its main ingredients are rice and black gram. Dosa is a typical 
+        part of the Southern Indian and Sri Lankan diets but is now popular all over the Indian subcontinent.</string>
+
+    <string name="burger">A hamburger, beefburger or burger is a sandwich consisting of one or more cooked patties of
+        ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, or
+        flame broiled.</string>
+
+    <string name="omlette">In cuisine, an omelette or omelet is a dish made from beaten eggs fried with butter or oil
+        in a frying pan. It is quite common for the omelette to be folded around a filling such as cheese, chives,
+        vegetables, mushrooms, meat, or some combination of the above.</string>
+
+    <string name="sandwich">A sandwich is a food typically consisting of vegetables, sliced cheese or meat,
+        placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve
+        as a container or wrapper for another food type.</string>
+
+    <string name="pizza">Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base
+        of leavened wheat-based dough topped with tomatoes, cheese, and various other ingredients baked at a high
+        temperature, traditionally in a wood-fired oven.</string>
+
+    <string name="choco">A petit gâteau, or chocolate fondant, is a dessert composed of a small chocolate cake with
+        crunchy rind and mellow filling that is conventionally served hot with vanilla ice cream on a plate. In French,
+        the terms for the chocolate cake are "gâteau fondant au chocolat" or simply "fondant au chocolat".</string>
+
+
+</resources>
