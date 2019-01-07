@@ -24,6 +24,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="scalingPercent" value="97" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -34,7 +35,8 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="58" />
+                                                <entry key="scalingPercent" value="106" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -44,8 +46,8 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundImage" value="C:\Users\Suyash Shukla\Desktop\white.png" />
-                                      <entry key="foregroundImage" value="C:\Users\Suyash Shukla\Desktop\logo_transparent.png" />
+                                      <entry key="backgroundImage" value="C:\Users\Suyash Shukla\Desktop\Digife\white.png" />
+                                      <entry key="foregroundImage" value="C:\Users\Suyash Shukla\Desktop\Digife\logo_transparent.png" />
                                       <entry key="showSafeZone" value="false" />
                                     </map>
                                   </option>
